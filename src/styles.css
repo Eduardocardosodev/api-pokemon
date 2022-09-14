@@ -1,0 +1,22 @@
+body {
+  background-color: #383a59;
+  color: #fff;
+}
+.App {
+  font-family: sans-serif;
+}
+.App a {
+  color: #fff;
+}
+
+input {
+  background-color: #44475a;
+  border: 1px solid #6272a4;
+  border-radius: 8px;
+  padding: 5px 10px;
+  color: #fff;
+}
+input:focus {
+  border-color: #bd93f9;
+  outline: none;
+}
